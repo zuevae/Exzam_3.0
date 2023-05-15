@@ -34,7 +34,7 @@
                             <Run Text="Жанр: "/>
                             <Run Text="{Binding Жанр}"/>
                             <Run Text=""/>
-                            <Run/><LineBreak/> //перенос строки
+                            <Run/><LineBreak/> 
                             <Run Text="Автор:"/>
                             <Run Text="{Binding Автор}"/>
                             <Run Text=""/>
